@@ -1,2 +1,2 @@
 # nas-crawler
-A crawler for online NAS found in Google search.
+A crawler for online NAS reachable from Google search engine.
