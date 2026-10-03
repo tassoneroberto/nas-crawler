@@ -1,6 +1,7 @@
 # nas-crawler
 
 ## Introduction
+
 A crawler for online NAS reachable from Google search engine.
 
 ## Installation
@@ -8,11 +9,12 @@ A crawler for online NAS reachable from Google search engine.
 Install MySQL server and create a schema named "nascan".
 
 Clone the project:
-```
+
+```bash
 git clone https://github.com/tassoneroberto/nas-crawler.git
 cd crawler
-
 ```
+
 Open the project in Visual Studio and run it.
 
 It will search the web for public NAS and it will store found files in the MySQL database.
